@@ -12,22 +12,35 @@ conda activate wineq
 created a req file
 
 install the req
-```bash
 
+
+```bash
 pip install -r requirement.txt
 ```
-
+```bash
 git init
+```
 
+
+```bash
 dvc init
+```
 
+```bash
 dvc add given_data/winequality.csv
-
+```
+```bash
 git add .
- 
+```
+```bash
 git commit -m 'first commit' # add comments for every change in code
+```
 
 changes and commit changes in repo
+```bash
 git add . && commit -m 'upadre README.md
+```
 
-push origin main
+```bash
+git push origin main
+```

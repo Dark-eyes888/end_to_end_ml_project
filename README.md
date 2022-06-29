@@ -38,7 +38,7 @@ git commit -m 'first commit' # add comments for every change in code
 
 changes and commit changes in repo
 ```bash
-git add . && commit -m 'upadre README.md
+git add . && commit -m 'update README.md'
 ```
 
 ```bash

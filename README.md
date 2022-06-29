@@ -29,3 +29,5 @@ git commit -m 'first commit' # add comments for every change in code
 
 changes and commit changes in repo
 git add . && commit -m 'upadre README.md
+
+push origin main

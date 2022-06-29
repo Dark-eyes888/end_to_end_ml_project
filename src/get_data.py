@@ -27,4 +27,3 @@ if __name__ == '__main__':
     param_args=args.parse_args()
     data =get_data(param_args.config)
 
-print(data)

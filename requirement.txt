@@ -3,4 +3,6 @@ dvc[gdrive]
 sklearn
 pandas
 numpy
-argparser
+pytest
+tox
+flake8 

@@ -45,6 +45,16 @@ git add . && commit -m 'update README.md'
 git push origin main
 ```
 
+pytest
+```bash
+pytest -v
+```
+
+tox
+```bash
+tox
+```
+
 dvc run
 
 ```bash 

@@ -44,3 +44,9 @@ git add . && commit -m 'update README.md'
 ```bash
 git push origin main
 ```
+
+dvc run
+
+```bash 
+dvc repro
+```
